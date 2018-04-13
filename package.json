@@ -1,0 +1,24 @@
+{
+  "name": "selectadd",
+  "version": "1.0.0",
+  "description": "select sth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiyuanMain/jQuery_selectAdd.git"
+  },
+  "keywords": [
+    "select",
+    "add",
+    "sth"
+  ],
+  "author": "h_xingzhiyuan@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhiyuanMain/jQuery_selectAdd/issues"
+  },
+  "homepage": "https://github.com/zhiyuanMain/jQuery_selectAdd#readme"
+}
